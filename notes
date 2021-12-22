@@ -1,0 +1,4 @@
+for menu bars if you want to hide it on bigger screen use:
+visible md:hidden
+this shows it from sm to md but menu bar will disappear when it hits large screen
+
